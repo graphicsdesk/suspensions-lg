@@ -7,12 +7,252 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Barnard has suspended at least 53 students following their alleged participation in the “<a href=\"https://www.columbiaspectator.com/news/2024/04/17/dozens-of-protesters-occupy-south-lawn-call-for-divestment-from-israel-ahead-of-shafik-testimony/\">Gaza Solidarity Encampment</a>” on South Lawn, according to a document obtained by Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Suspended students in college housing have been evicted and have lost regular access to campus dining. As of Monday, two suspensions have been lifted and at least six students have received “an alternative resolution,” the document reads."
+          },
+          {
+            "type": "text",
+            "value": "All 53 students have been handed interim suspensions, during which their Columbia University ID card is deactivated and their access to residence halls, dining halls, classrooms, and Barnard and Columbia’s campuses is rescinded. Most suspended students were notified following the <a href=\"https://www.columbiaspectator.com/news/2024/04/18/shafik-authorizes-nypd-to-sweep-gaza-solidarity-encampment-officers-in-riot-gear-arrest-over-100/\">arrest</a> of 108 students after University President Minouche Shafik authorized the New York Police Department to come onto campus to sweep the “Gaza Solidarity Encampment.”"
+          },
+          {
+            "type": "text",
+            "value": "In interviews with Spectator, arrested and suspended students, along with faculty members, detailed the challenges that come with Barnard’s “draconian” policies in comparison to those of Columbia."
+          },
+          {
+            "type": "text",
+            "value": "<b>‘Breathtaking in its inhumanity’</b>"
+          },
+          {
+            "type": "text",
+            "value": "Unlike suspended peers across Broadway, all suspended Barnard students were evicted from their campus housing."
+          },
+          {
+            "type": "text",
+            "value": "Students who received their suspension notification after they returned to their dorm following arrest may still have access to on-campus housing if they have not left their residence hall. But, students who were formally suspended prior to their arrest or their return to dorm buildings have been formally evicted and were given 15 minutes to retrieve personal belongings."
+          },
+          {
+            "type": "text",
+            "value": "“If you need to come to retrieve any of your belongings from your residence hall, please go to CARES, located on the first floor of Elliot Hall. A CARES responder will escort you to your room, and you will have 15 minutes to gather what you might need,” the follow-up notices of interim suspension read."
+          },
+          {
+            "type": "text",
+            "value": "Najam Haider, professor of religion at Barnard, said the college’s suspension policies are “far more draconian” than Columbia’s."
+          },
+          {
+            "type": "text",
+            "value": "“Barnard is being far more aggressive in its policies against its own students. It almost feels personal, coming from the Barnard administration. It feels vindictive, it feels malicious and mean,” Haider said. “I mean, there’s no reason to give a student 15 minutes to gather up their possessions. … If you want to suspend them and you want to go through process, it’s one thing, but the lack of humanity that is embedded in the way that this is being done is, I mean, it’s breathtaking in its inhumanity.”"
+          },
+          {
+            "type": "text",
+            "value": "A Barnard College spokesperson wrote in a statement to Spectator that “Barnard’s top priority is the safety of our community. It is our duty to ensure our community remains a safe place, free from harassment and discrimination for all, while also ensuring that everyone has the opportunity to express their views.”"
+          },
+          {
+            "type": "text",
+            "value": "“We have established clear policies to safeguard both – and we are committed to enforcing them consistently and respectfully,” the spokesperson wrote. “It’s of paramount importance that our students feel safe where they live and learn. We have taken, and will continue to take, any necessary steps to protect our students.”"
+          },
+          {
+            "type": "text",
+            "value": "The spokesperson did not respond to Spectator’s question regarding students’ personal belongings should they not be able to collect all of their items within the 15-minute time frame."
+          },
+          {
+            "type": "text",
+            "value": "Five arrested and suspended Barnard students who spoke to Spectator said that they were not formally notified of their suspension until Friday morning, the day after their arrest. These students had already returned to their dorm room when they received an email notifying them of their suspension and ID deactivation."
+          },
+          {
+            "type": "text",
+            "value": "This places students like Izzy Lapidus, BC ’24, in limbo as they cannot leave their dorm without losing access to items in their residence hall."
+          },
+          {
+            "type": "text",
+            "value": "“The majority of students—which has been the case for months—who are organizing or putting themselves on the line are students of color or low-income students of color. I think what Barnard is doing is so vile,” Lapidus said."
+          },
+          {
+            "type": "text",
+            "value": "In her suspension notification follow-up emails, Leslie Grinage, dean of the college and vice president for campus life and student experience, offered students assistance in finding a “safe place to stay with access to food and shelter during this interim period” should they have nowhere to go."
+          },
+          {
+            "type": "text",
+            "value": "“Students on interim suspension no longer have access to most Barnard buildings, but they remain eligible for College services, including healthcare, mental health counseling, and academic support. The Dean of the College also has made food available to students on interim suspension and is otherwise assisting students find alternative housing arrangements when needed,” the Barnard spokesperson wrote in their statement."
+          },
+          {
+            "type": "text",
+            "value": "One arrested and suspended Barnard student, who spoke to Spectator under the condition of anonymity citing fear of retaliation from Barnard administration, said she cannot leave her dorm because she does not have a safe place to go."
+          },
+          {
+            "type": "text",
+            "value": "“I’m still at my dorm, but I can be kicked out at any time. I emailed Dean Grinage saying that I need housing, and she said that she can transport me to safe location, but she didn’t offer a safe location and I don’t have one,” the student said."
+          },
+          {
+            "type": "text",
+            "value": "Reed, BC ’25, who spoke to Spectator under the condition that they be identified by their first name citing safety concerns, said they wrote to Dean Grinage asking if she had safe housing accommodations that met their CARDS needs. In her response, Grinage did not offer a safe housing accommodation in New York City."
+          },
+          {
+            "type": "text",
+            "value": "“Please let me know if we can help book a flight for you to return to Georgia, which I see as the state listed in your permanent address, or help arrange travel to another safe location,” Grinage’s response reads."
+          },
+          {
+            "type": "text",
+            "value": "“It felt surreal that the Dean of the College was just telling me, ‘We can help you go home,’ as if I’m not leaving all of my belongings here. And as a FLI student, I can’t afford like a bunch of really expensive movers to move it either. Like I have to do all the packing myself, so I don’t know what to do,” Reed said."
+          },
+          {
+            "type": "text",
+            "value": "According to a Saturday <a href=\"https://www.instagram.com/p/C5_AjMjO1Zg/?img_index=2\">Instagram</a> post, desk attendants received printed papers that included individual photos of students, their student ID numbers, student emails, personal phone numbers, dorm and room numbers, age, class year, and number of “incidents” as recorded by Barnard’s Symplicity Advocate conduct records. <a href=\"https://www.symplicity.com/higher-ed/solutions/faq\">According to the Symplicity website</a>, Advocate is a software used by schools to process and track items related to student conduct violations, student of concern reports, and Title IX cases."
+          },
+          {
+            "type": "text",
+            "value": "These documents stopped students like Reed from entering residence halls, they said."
+          },
+          {
+            "type": "text",
+            "value": "“At one point later, I had one of the security officers see me, since they’ve sent out flyers with our faces on it, say like, ‘Hey, you can’t be here,’ before I even entered the building,” Reed said."
+          },
+          {
+            "type": "text",
+            "value": "Premilla Nadasen, a professor of history at Barnard, said that the photos of suspended students given to desk attendants is “the epitome of what it means to turn our students into criminals.”"
+          },
+          {
+            "type": "text",
+            "value": "“When I first saw that poster, it looked to me like a wanted poster, with mug shots of students on it. And again, this is beyond the boundaries of … the way this college should be treating its students,” Nadasen said. “It’s part of the process of criminalization, part of the process of surveillance, making students faces and names public in that way, being told that they couldn’t enter their their dorm rooms or … any campus building, and the process of surveillance has been ongoing at Barnard College, students being identified based on their participation in peaceful protests.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "waffle.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "One arrested and suspended Barnard student, who spoke to Spectator under the condition of anonymity citing safety concerns, fractured her wrist as she was being arrested at the encampment on Thursday."
+          },
+          {
+            "type": "text",
+            "value": "“I was amongst multiple students whose zip ties were too tight. From what the police said, there’s supposed to be one finger between your wrist and the zip tie when they tie them,” the student said. “At first that was not accomplished and, you know, I felt pain and kind of cried out when they first zip tied me. So then, while the ties were redone for multiple students, unfortunately mine were still rather tight.”"
+          },
+          {
+            "type": "text",
+            "value": "The student was notified of her suspension the morning following her arrest. She lost her on-campus housing because she needed to leave her residence to seek off-campus medical care due to her injury. She said that “it was a hard decision to choose between maintaining my housing or going to the doctor’s not being able to come back.”"
+          },
+          {
+            "type": "text",
+            "value": "“I no longer have access to my housing and had to find other living arrangements. So yeah, I’m not in my residential building anymore. And the reason that spurred that on was kind of the medical issues that I was discussing before with the affected arm slash wrist during the arrest,” the student said."
+          },
+          {
+            "type": "text",
+            "value": "<b>Conditional amnesty</b>"
+          },
+          {
+            "type": "text",
+            "value": "In one email obtained by Spectator, Grinage offered suspended students the option of an “Alternative Resolution process.” At least six students received an “alternative resolution” to their interim suspensions, according to a document obtained by Spectator."
+          },
+          {
+            "type": "text",
+            "value": "“The process is available to you because you previously have not been found responsible for misconduct under the code and do not have any other conduct matters pending before the College,” the email reads. “This one-time alternative resolution offer does not require you to accept responsibility for misconduct and the offer must be accepted by Tuesday, April 23, 2024, at 5 p.m.”"
+          },
+          {
+            "type": "text",
+            "value": "In an email sent to the Barnard community Monday night, Barnard President Laura Rosenbury stated that the college began sending written notices offering to lift interim suspensions to students who had not previously engaged in misconduct under Barnard’s rules."
+          },
+          {
+            "type": "text",
+            "value": "“If these students choose this path, neither the interim suspension nor the probationary period will appear on the students’ academic transcripts and these sanctions will not become part of students’ reportable disciplinary records barring a finding of responsibility under the Student Code of Conduct for future misconduct,” Rosenbury wrote."
+          },
+          {
+            "type": "text",
+            "value": "She also stated that suspended students “may not physically be on campus, but Barnard professors may permit them to attend class via Zoom and otherwise complete work remotely.”"
+          },
+          {
+            "type": "text",
+            "value": "Under this option, students “achieve immediate resolution of this matter, and the immediate lifting of any interim suspension” should they “waive all of your rights to participate in the conduct process” and agree to several sanctions."
+          },
+          {
+            "type": "text",
+            "value": "The sanctions include a written warning that the student must comply with all college policies in the future, fully participate in an “Educational Project” in which the student submits at least a 100-word reflection paper on the Student Code of Conduct, and receive probation until Aug. 9."
+          },
+          {
+            "type": "text",
+            "value": "Amnesty will be granted to these students “following successful completion of all of the above.” The email stated that “these sanctions will not appear on your academic transcript and will not be part of your reportable disciplinary record unless you are found responsible for future misconduct under the code.”"
+          },
+          {
+            "type": "text",
+            "value": "“Amnesty” is not currently defined by Barnard’s Student Code of Conduct."
+          },
+          {
+            "type": "text",
+            "value": "Spectator reported that the college unilaterally revised its Student Code of Conduct earlier this academic year without consulting faculty or students and without providing formal notification of the changes to the campus community. Spectator reviewed a previous version of the Student Code of Conduct webpage using the Wayback Machine—a digital Internet archive—as it appeared on<a href=\"https://web.archive.org/web/20230926102010/https://barnard.edu/student-code-conduct\"> Sept. 26, 2023</a>, the last time the archive recorded the site prior to a Dec. 11, 2023, “unauthorized” protest on Barnard’s campus."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2024/03/08/barnard-quietly-revises-student-code-of-conduct-webpage-students-face-more-disciplinary-proceedings-for-campus-activism/\"><i>Barnard quietly revises Student Code of Conduct webpage, students face more disciplinary proceedings for on campus activism</i></a><i>] </i>"
+          },
+          {
+            "type": "text",
+            "value": "In a previous version of the Student Code of Conduct, students had the right to an attorney when undergoing conduct hearings for alleged violation of criminal law and the Student Code of Conduct."
+          },
+          {
+            "type": "text",
+            "value": "“Only in such instances, a student may request, in advance of a Conduct Hearing, the participation of an attorney as their supporter in the student conduct process,” the previous version of the code states."
+          },
+          {
+            "type": "text",
+            "value": "Under the current code, students do not have the right to bring an attorney or practicing lawyer to their conduct hearing."
+          },
+          {
+            "type": "text",
+            "value": "<b>‘</b><b>Embarrassed by this institution’</b>"
+          },
+          {
+            "type": "text",
+            "value": "Barnard’s current administration has left students and faculty outraged and disappointed, with many saying the school’s actions no longer align with its public image as an activist college."
+          },
+          {
+            "type": "text",
+            "value": "“I’m embarrassed by this institution. I mean, this institution, when I came here, one of the things that appealed to me about Barnard was its history of activism, promoting activism,” Haider said. “We always talk about Barnard bold, to talk about how important it is to teach students the value of protests in principle. And this is, I think, a betrayal of all of that.”"
+          },
+          {
+            "type": "text",
+            "value": "Arrested and suspended Barnard students told Spectator they came to Barnard for its history of activism. Marie Adele Grosso, BC ’26, said they are disappointed that the college is not standing by student activists."
+          },
+          {
+            "type": "text",
+            "value": "“I’m very disappointed in our University. I’m disappointed because our University advertises themselves as a place for activism,” Grosso said. “Our University likes to publicize the activists who’ve attended the University, likes to publicize that they care about student activism, and … they’re showing their hypocrisy right now.”"
+          },
+          {
+            "type": "text",
+            "value": "Nadasen and Haider told Spectator that Barnard is undermining its history as an activist institution."
+          },
+          {
+            "type": "text",
+            "value": "“I think Barnard College is in crisis right now,” Nadasen said. “I think that there has been an overreach in terms of cracking down on students’ right to protest, on freedom of expression.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Maya Stahl can be contacted at </i><a href=\"mailto:maya.stahl@columbiaspectator.com\"><i>maya.stahl@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Laya Gollamudi can be contacted at </i><a href=\"mailto:laya.gollamudi@columbiaspectator.com\"><i>laya.gollamudi@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Barnard suspends and evicts at least 53 students, outlines steps for ‘amnesty’",
+        "date": "April 23, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/maya-stahl/\">Maya Stahl</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/laya-gollamudi/\">Laya Gollamudi</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2B6VYAWJPZACLLUNKQXFKRPQDM.jpg",
+        "cover_caption": "Frances Cohen / Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/18Eit9uOtCnamDX7B9-NSQk417K8cCR1y0JdRUG0wY54/edit"
       }
     }
   }
